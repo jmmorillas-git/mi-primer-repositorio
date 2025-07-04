@@ -1,4 +1,4 @@
 Este es el segundo fichero que creo
 modifico easrte archivo para hacer commit desde sourcetree
 
-Cambios para "conflictos 1!
+Cambios para "conflictos 1" corregir error
